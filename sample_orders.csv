@@ -1,0 +1,501 @@
+customer_id,order_id,order_date,sales,order_total,late_delivery_risk,order_region,customer_segment,category_name,profit_per_order,shipping_mode,market
+6109,31299,4/1/2016 21:05,199.9900055,175.9900055,1,West of USA ,Consumer,Water Sports,11.09000015,Standard Class,USCA
+12041,61023,6/9/2017 18:43,250.0,245.0,1,Central America,Consumer,Women's Apparel,9.800000191,First Class,LATAM
+4271,111,1/2/2015 14:32,249.8999939,244.8999939,0,Central America,Corporate,Indoor/Outdoor Games,117.5500031,Standard Class,LATAM
+3521,50699,1/10/2017 1:46,299.980011,251.9799957,1,Southern Africa,Consumer,Camping & Hiking,118.4300003,Standard Class,Africa
+12073,56606,4/6/2017 7:15,119.9700012,107.9700012,0,Caribbean,Consumer,Shop By Sport,-21.59000015,Standard Class,LATAM
+771,40074,8/7/2016 23:21,199.9199982,163.9299927,1,US Center ,Consumer,Indoor/Outdoor Games,-16.38999939,Standard Class,USCA
+8550,16610,8/31/2015 10:52,399.980011,319.980011,1,Southern Europe,Corporate,Fishing,83.19999695,Standard Class,Europe
+4857,48131,12/3/2016 14:04,299.9700012,272.9700012,0,East Africa,Consumer,Cardio Equipment,99.08999634,Standard Class,Africa
+5404,53220,2/15/2017 20:59,100.0,100.0,1,Central America,Consumer,Women's Apparel,30.0,Standard Class,LATAM
+5148,55478,3/20/2017 20:03,119.9700012,118.7699966,0,Central America,Corporate,Shop By Sport,54.63000107,Standard Class,LATAM
+7,9977,5/26/2015 15:02,150.0,147.0,0,Central America,Corporate,Women's Apparel,72.02999878,Standard Class,LATAM
+3889,26905,1/28/2016 17:40,199.9900055,169.9900055,1,Southeast Asia,Consumer,Water Sports,-38.25,Standard Class,Pacific Asia
+12195,16725,9/2/2015 3:09,129.9900055,114.3899994,1,Northern Europe,Corporate,Men's Footwear,14.30000019,Second Class,Europe
+9388,11381,6/16/2015 2:55,274.8500061,233.6199951,0,Western Europe,Consumer,Boxing & MMA,75.93000031,Standard Class,Europe
+9755,13114,7/11/2015 10:04,250.0,237.5,1,Western Europe,Corporate,Women's Apparel,68.87999725,Second Class,Europe
+8790,29369,3/4/2016 16:55,299.980011,269.980011,1,Oceania,Consumer,Camping & Hiking,-50.75999832,Same Day,Pacific Asia
+4326,23503,12/10/2015 1:47,299.9700012,296.9700012,1,Southeast Asia,Consumer,Cardio Equipment,142.5500031,First Class,Pacific Asia
+11589,33038,4/27/2016 6:19,199.9900055,149.9900055,1,East of USA,Consumer,Water Sports,-8.550000191,Second Class,USCA
+6049,66458,8/28/2017 2:50,399.980011,319.980011,0,Southern Europe,Consumer,Fishing,28.15999985,Standard Class,Europe
+19574,76021,1/14/2018 17:11,11.53999996,11.31000042,0,Oceania,Home Office,Toys,5.090000153,Second Class,Pacific Asia
+7863,61893,6/22/2017 11:31,199.9900055,197.9900055,0,Southern Europe,Home Office,Water Sports,-7.519999981,Standard Class,Europe
+5552,6348,4/3/2015 15:38,129.9900055,122.8399963,1,Central America,Consumer,Men's Footwear,38.45000076,Second Class,LATAM
+7616,65629,8/16/2017 0:24,129.9900055,107.8899994,1,Western Europe,Consumer,Men's Footwear,-23.40999985,Standard Class,Europe
+1998,9770,5/23/2015 14:30,399.980011,319.980011,1,Caribbean,Home Office,Fishing,124.7900009,First Class,LATAM
+7557,35472,6/1/2016 19:04,179.9700012,152.9700012,0,West of USA ,Corporate,Cleats,71.90000153,Standard Class,USCA
+1478,25259,1/4/2016 17:00,50.0,37.5,1,Southeast Asia,Corporate,Women's Apparel,4.690000057,Standard Class,Pacific Asia
+1289,13767,7/20/2015 22:50,129.9900055,103.9899979,1,Southern Europe,Home Office,Men's Footwear,6.239999771,First Class,Europe
+3492,55013,3/14/2017 1:09,299.980011,296.980011,1,Central America,Consumer,Camping & Hiking,145.5200043,Second Class,LATAM
+10553,25369,1/6/2016 7:32,129.9900055,120.8899994,1,Southeast Asia,Consumer,Men's Footwear,-29.37999916,First Class,Pacific Asia
+5175,58966,5/10/2017 18:03,399.980011,347.980011,0,Central America,Corporate,Fishing,167.0299988,Standard Class,LATAM
+6269,27529,2/6/2016 20:17,299.980011,299.980011,1,Oceania,Consumer,Camping & Hiking,50.09999847,Standard Class,Pacific Asia
+10241,28824,2/25/2016 17:58,399.980011,331.980011,1,South Asia,Consumer,Fishing,-66.40000153,Standard Class,Pacific Asia
+847,13184,7/12/2015 10:35,299.980011,245.9799957,1,Southern Europe,Consumer,Camping & Hiking,15.25,Standard Class,Europe
+1805,40664,8/16/2016 14:03,250.0,232.5,1,East of USA,Corporate,Women's Apparel,-5.809999943,First Class,USCA
+4704,61778,6/20/2017 19:14,199.9900055,181.9900055,1,Western Europe,Consumer,Water Sports,50.95999908,Same Day,Europe
+1103,42149,9/7/2016 6:19,47.99000168,43.66999817,1,Canada,Corporate,Electronics,14.18999958,First Class,USCA
+11423,2358,2/4/2015 9:45,399.980011,339.980011,0,Caribbean,Home Office,Fishing,118.9899979,Standard Class,LATAM
+11444,39387,7/28/2016 22:40,149.9400024,142.4400024,1,West of USA ,Corporate,Indoor/Outdoor Games,68.37000275,First Class,USCA
+3800,9802,5/24/2015 1:43,120.0,120.0,1,Central America,Consumer,Girls' Apparel,15.0,First Class,LATAM
+10822,58662,5/6/2017 7:33,399.980011,339.980011,0,South America,Corporate,Fishing,57.79999924,Standard Class,LATAM
+5615,59307,5/15/2017 17:32,399.980011,331.980011,1,Central America,Corporate,Fishing,0.0,Second Class,LATAM
+7639,56101,3/29/2017 22:19,129.9900055,106.5899963,0,Central America,Consumer,Men's Footwear,36.02999878,Standard Class,LATAM
+1171,43976,10/3/2016 22:24,79.98000336,71.98000336,0,Southern Africa,Home Office,Shop By Sport,21.59000015,Standard Class,Africa
+5804,15716,8/18/2015 9:39,129.9900055,113.0899963,0,Northern Europe,Corporate,Men's Footwear,33.93000031,Standard Class,Europe
+4765,24425,12/23/2015 12:48,149.9400024,130.4499969,1,Southeast Asia,Consumer,Indoor/Outdoor Games,58.70000076,Standard Class,Pacific Asia
+2865,8839,5/10/2015 0:20,99.95999908,74.97000122,1,South America,Consumer,Indoor/Outdoor Games,24.37000084,Standard Class,LATAM
+2335,56666,4/7/2017 4:16,399.980011,395.980011,0,Central America,Corporate,Fishing,87.12000275,Standard Class,LATAM
+9476,68001,9/19/2017 15:25,299.980011,269.980011,0,Southern Europe,Consumer,Camping & Hiking,17.01000023,Standard Class,Europe
+11711,18807,10/2/2015 12:34,250.0,212.5,0,Western Europe,Home Office,Women's Apparel,63.75,Standard Class,Europe
+6240,13800,7/21/2015 10:24,199.9900055,163.9900055,1,Western Europe,Corporate,Water Sports,28.70000076,Second Class,Europe
+2070,36893,6/22/2016 12:54,150.0,123.0,1,East of USA,Corporate,Girls' Apparel,33.20999908,Second Class,USCA
+10477,53805,2/24/2017 9:56,89.98000336,89.98000336,1,Central America,Consumer,Electronics,42.29000092,Standard Class,LATAM
+3677,19953,10/19/2015 6:04,399.980011,377.980011,0,Western Europe,Consumer,Fishing,105.8300018,Standard Class,Europe
+5072,4605,3/9/2015 4:59,250.0,245.0,1,Central America,Corporate,Women's Apparel,18.37999916,Standard Class,LATAM
+1512,67997,9/19/2017 14:01,199.9900055,169.9900055,1,Western Europe,Corporate,Water Sports,53.20999908,Second Class,Europe
+11877,50600,1/8/2017 15:05,100.0,87.0,1,East Africa,Home Office,Women's Apparel,19.57999992,First Class,Africa
+11875,40167,8/9/2016 7:56,399.980011,335.980011,1,West of USA ,Consumer,Fishing,57.11999893,Second Class,USCA
+10692,15296,8/12/2015 6:31,79.98000336,79.18000031,1,Southern Europe,Corporate,Shop By Sport,20.59000015,First Class,Europe
+583,43859,10/2/2016 5:24,199.9900055,165.9900055,1,West Asia,Consumer,Water Sports,58.09999847,Standard Class,Pacific Asia
+1775,41448,8/28/2016 0:43,49.97999954,41.97999954,0,South Asia,Consumer,Indoor/Outdoor Games,-5.25,Standard Class,Pacific Asia
+4415,54745,3/10/2017 3:15,199.9199982,149.9400024,1,Central America,Home Office,Indoor/Outdoor Games,-100.0100021,First Class,LATAM
+14514,70961,11/1/2017 20:26,252.8800049,230.1199951,0,Western Europe,Consumer,Consumer Electronics,43.72000122,Second Class,Europe
+3236,21258,11/7/2015 7:16,199.9900055,189.9900055,0,Eastern Asia,Consumer,Water Sports,66.5,Standard Class,Pacific Asia
+2860,32759,4/23/2016 4:35,129.9900055,107.8899994,1,US Center ,Corporate,Men's Footwear,30.20999908,Standard Class,USCA
+1339,37464,6/30/2016 20:57,119.9800034,100.7799988,1,US Center ,Consumer,Cleats,-2.519999981,Second Class,USCA
+11382,16747,9/2/2015 10:52,199.9900055,181.9900055,1,Western Europe,Corporate,Water Sports,59.15000153,First Class,Europe
+10462,23486,12/9/2015 19:50,129.9900055,97.48999786,0,Oceania,Consumer,Men's Footwear,-5.559999943,Standard Class,Pacific Asia
+3957,16656,9/1/2015 2:59,499.9500122,499.9500122,0,Western Europe,Corporate,Cardio Equipment,174.9799957,Standard Class,Europe
+4490,26836,1/27/2016 17:29,99.95999908,95.95999908,1,Oceania,Consumer,Indoor/Outdoor Games,4.800000191,First Class,Pacific Asia
+3923,15122,8/9/2015 17:33,129.9900055,106.5899963,1,Southern Europe,Consumer,Men's Footwear,9.380000114,First Class,Europe
+6683,37472,6/30/2016 23:45,239.9600067,191.9700012,0,South of  USA ,Home Office,Cleats,-499.1199951,Standard Class,USCA
+1317,50526,1/7/2017 13:09,99.95999908,90.95999908,1,Eastern Europe,Consumer,Indoor/Outdoor Games,3.369999886,First Class,Europe
+3411,8364,5/3/2015 1:55,25.0,22.75,1,Caribbean,Corporate,Girls' Apparel,10.68999958,Second Class,LATAM
+18204,74651,12/25/2017 17:13,252.8800049,240.2400055,0,Oceania,Consumer,Consumer Electronics,7.210000038,Standard Class,Pacific Asia
+19523,75970,1/13/2018 23:19,11.53999996,8.659999847,1,Oceania,Consumer,Toys,1.409999967,Standard Class,Pacific Asia
+9496,15004,8/8/2015 0:13,299.9500122,287.9500122,1,Southern Europe,Corporate,Cleats,2.880000114,Standard Class,Europe
+3870,3869,2/26/2015 11:07,129.9900055,120.8899994,1,Central America,Consumer,Men's Footwear,58.02999878,Standard Class,LATAM
+6633,49896,12/29/2016 8:26,399.980011,395.980011,0,Central Africa,Consumer,Fishing,118.7900009,Standard Class,Africa
+7571,24903,12/30/2015 12:16,499.9500122,409.9599915,0,Eastern Asia,Consumer,Cardio Equipment,128.3200073,Standard Class,Pacific Asia
+8886,41292,8/25/2016 18:04,299.9500122,284.9500122,1,Central Africa,Corporate,Cleats,111.1299973,Second Class,Africa
+1645,33567,5/4/2016 23:39,299.980011,269.980011,0,South of  USA ,Home Office,Camping & Hiking,30.51000023,Standard Class,USCA
+3950,25898,1/14/2016 0:52,129.9900055,97.48999786,1,Oceania,Home Office,Men's Footwear,-39.0,First Class,Pacific Asia
+2831,26582,1/24/2016 0:30,399.9599915,395.9599915,0,Oceania,Corporate,Cardio Equipment,-7.920000076,Standard Class,Pacific Asia
+161,51233,1/17/2017 20:51,239.9600067,218.3600006,1,Central Asia,Corporate,Cleats,79.26999664,Second Class,Pacific Asia
+3661,53509,2/20/2017 2:14,299.980011,251.9799957,1,Central America,Consumer,Camping & Hiking,15.86999989,Standard Class,LATAM
+1911,47295,11/21/2016 9:11,199.9900055,175.9900055,1,West Asia,Corporate,Water Sports,-4.400000095,First Class,Pacific Asia
+1782,30200,3/16/2016 20:03,299.9500122,269.9599915,1,South Asia,Corporate,Cleats,124.1800003,Standard Class,Pacific Asia
+5790,3166,2/16/2015 4:50,129.9900055,114.3899994,0,Caribbean,Corporate,Men's Footwear,34.3199997,Standard Class,LATAM
+7575,2087,1/31/2015 10:49,129.9900055,124.7900009,1,South America,Home Office,Men's Footwear,57.40000153,Second Class,LATAM
+6393,11920,6/23/2015 23:45,99.95999908,87.95999908,1,Western Europe,Consumer,Indoor/Outdoor Games,22.87000084,Standard Class,Europe
+5999,22135,11/20/2015 2:31,219.8800049,184.6999969,1,Eastern Asia,Corporate,Boxing & MMA,32.88000107,Standard Class,Pacific Asia
+3711,23303,12/7/2015 3:43,200.0,198.0,0,Southeast Asia,Consumer,Women's Apparel,22.37000084,Standard Class,Pacific Asia
+1930,43507,9/27/2016 2:05,399.980011,299.9899902,1,West Africa,Consumer,Fishing,41.40000153,Second Class,Africa
+2685,40097,8/8/2016 7:24,199.9900055,175.9900055,0,US Center ,Consumer,Water Sports,63.88000107,Standard Class,USCA
+9945,16011,8/22/2015 17:00,99.95999908,83.97000122,0,Southern Europe,Home Office,Indoor/Outdoor Games,27.29000092,Standard Class,Europe
+11950,13389,7/15/2015 10:24,129.9900055,114.3899994,1,Northern Europe,Home Office,Men's Footwear,12.93000031,First Class,Europe
+5703,6658,4/8/2015 4:14,239.9600067,235.1600037,1,Central America,Consumer,Cleats,20.69000053,Second Class,LATAM
+9172,3474,2/20/2015 16:44,100.0,97.0,1,South America,Consumer,Women's Apparel,7.28000021,First Class,LATAM
+8069,61328,6/14/2017 5:34,299.980011,290.980011,0,South America,Home Office,Camping & Hiking,136.7599945,Standard Class,LATAM
+8468,43462,9/26/2016 10:19,50.0,40.0,0,Eastern Europe,Consumer,Girls' Apparel,12.52000046,Standard Class,Europe
+931,46588,11/11/2016 1:30,119.9800034,89.98999786,1,West Africa,Home Office,Cleats,29.25,First Class,Africa
+2684,55942,3/27/2017 14:37,399.980011,347.980011,1,Central America,Consumer,Fishing,167.0299988,Second Class,LATAM
+3195,13056,7/10/2015 13:44,149.9400024,149.9400024,0,Northern Europe,Corporate,Indoor/Outdoor Games,58.47999954,Standard Class,Europe
+7200,23279,12/6/2015 19:19,199.9900055,167.9900055,1,Eastern Asia,Consumer,Water Sports,21.0,Second Class,Pacific Asia
+7922,15537,8/15/2015 18:57,99.95999908,94.45999908,1,Southern Europe,Home Office,Indoor/Outdoor Games,25.5,Second Class,Europe
+3617,2441,2/5/2015 14:50,50.0,47.25,0,Central America,Home Office,Women's Apparel,22.68000031,Second Class,LATAM
+9322,10956,6/9/2015 22:01,299.980011,248.9799957,0,Western Europe,Corporate,Camping & Hiking,107.0599976,Second Class,Europe
+10977,53599,2/21/2017 9:46,199.9900055,185.9900055,1,Central America,Consumer,Water Sports,91.13999939,Standard Class,LATAM
+3312,35811,6/6/2016 17:50,399.980011,383.980011,1,South of  USA ,Consumer,Fishing,38.40000153,First Class,USCA
+6873,31941,4/11/2016 6:00,249.8999939,232.4100037,0,East of USA,Corporate,Indoor/Outdoor Games,113.8799973,Same Day,USCA
+9839,1900,1/28/2015 17:18,299.980011,287.980011,1,Central America,Corporate,Camping & Hiking,138.2299957,First Class,LATAM
+13676,70123,10/20/2017 14:51,357.1000061,339.25,0,Western Europe,Consumer,Children's Clothing,98.37999725,Standard Class,Europe
+15689,72136,11/19/2017 0:06,293.0400085,249.0800018,0,Southeast Asia,Consumer,Health and Beauty,34.36999893,Standard Class,Pacific Asia
+9628,6260,4/2/2015 8:48,100.0,90.0,1,Central America,Consumer,Women's Apparel,-234.0,First Class,LATAM
+2740,55461,3/20/2017 14:06,299.980011,296.980011,0,Central America,Corporate,Camping & Hiking,83.15000153,Standard Class,LATAM
+5812,4139,3/2/2015 9:43,119.9700012,113.3700027,1,Caribbean,Corporate,Shop By Sport,41.15000153,Standard Class,LATAM
+2473,33851,5/9/2016 3:09,129.9900055,123.4899979,0,South of  USA ,Corporate,Men's Footwear,-24.70000076,Standard Class,USCA
+434,8067,4/28/2015 17:52,199.9900055,197.9900055,0,South America,Consumer,Water Sports,19.79999924,Standard Class,LATAM
+9535,42603,9/13/2016 21:22,39.99000168,37.79000092,1,East Africa,Consumer,Shop By Sport,11.72000027,Second Class,Africa
+11584,65948,8/20/2017 16:10,399.980011,383.980011,0,Southern Europe,Consumer,Fishing,-16.51000023,Standard Class,Europe
+41,67819,9/16/2017 23:39,399.980011,379.980011,1,Southern Europe,Consumer,Fishing,174.7899933,Same Day,Europe
+8450,20777,10/31/2015 6:45,129.9900055,103.9899979,0,Southeast Asia,Corporate,Men's Footwear,28.07999992,Standard Class,Pacific Asia
+9283,53501,2/19/2017 23:25,150.0,136.5,0,Central America,Consumer,Women's Apparel,17.05999947,Second Class,LATAM
+3293,16145,8/24/2015 15:57,159.9600067,156.7599945,1,Western Europe,Corporate,Shop By Sport,54.86999893,Standard Class,Europe
+4699,35617,6/3/2016 21:52,89.98000336,73.77999878,0,West of USA ,Corporate,Electronics,4.940000057,Standard Class,USCA
+3817,61303,6/13/2017 20:49,39.99000168,36.38999939,0,South America,Corporate,Shop By Sport,13.64999962,Standard Class,LATAM
+564,12128,6/27/2015 0:37,129.9900055,97.48999786,0,Western Europe,Corporate,Men's Footwear,-263.230011,Same Day,Europe
+1505,31289,4/1/2016 17:34,199.9199982,149.9400024,1,Oceania,Corporate,Indoor/Outdoor Games,70.47000122,First Class,Pacific Asia
+146,10164,5/29/2015 8:33,129.9900055,123.4899979,1,South America,Home Office,Men's Footwear,59.27999878,Second Class,LATAM
+7981,11046,6/11/2015 5:33,47.97000122,40.77000046,0,Western Europe,Corporate,Trade-In,9.699999809,Same Day,Europe
+3739,20904,11/2/2015 3:15,199.9499969,179.9600067,1,Oceania,Corporate,Shop By Sport,75.58000183,Standard Class,Pacific Asia
+172,14554,8/1/2015 10:33,129.9900055,107.8899994,0,Western Europe,Home Office,Men's Footwear,-9.489999771,Standard Class,Europe
+18908,75355,1/4/2018 23:51,260.6499939,250.2200012,1,Eastern Asia,Consumer,Music,-22.02000046,First Class,Pacific Asia
+8809,13512,7/17/2015 5:30,129.9900055,97.48999786,0,Southern Europe,Consumer,Men's Footwear,6.039999962,Same Day,Europe
+6233,18235,9/24/2015 4:10,70.0,57.40000153,1,Western Europe,Home Office,Girls' Apparel,28.12999916,Standard Class,Europe
+2310,42753,9/16/2016 1:55,31.98999977,27.19000053,0,West Asia,Home Office,Electronics,9.18999958,Standard Class,Pacific Asia
+9447,47075,11/18/2016 4:07,99.95999908,86.97000122,1,Central Africa,Corporate,Indoor/Outdoor Games,41.74000168,Standard Class,Africa
+4624,19612,10/14/2015 6:36,129.9900055,123.4899979,1,Southern Europe,Consumer,Men's Footwear,-12.35000038,First Class,Europe
+1532,32201,4/15/2016 1:05,239.9600067,218.3600006,0,West of USA ,Consumer,Cleats,76.43000031,Standard Class,USCA
+6836,47891,11/30/2016 2:00,299.9700012,224.9799957,0,West Asia,Consumer,Cardio Equipment,56.24000168,Second Class,Pacific Asia
+10472,36108,6/11/2016 1:53,199.9900055,167.9900055,0,East of USA,Corporate,Water Sports,-251.9900055,Standard Class,USCA
+10240,24770,12/28/2015 13:41,100.0,96.0,1,Southeast Asia,Consumer,Women's Apparel,-10.85000038,Standard Class,Pacific Asia
+12344,3048,2/14/2015 11:29,299.9500122,260.9599915,0,Central America,Consumer,Cleats,125.2600021,Same Day,LATAM
+4864,24075,12/18/2015 10:11,159.9600067,140.7599945,1,Eastern Asia,Consumer,Shop By Sport,67.5699997,Second Class,Pacific Asia
+9122,29570,3/7/2016 15:20,499.9500122,419.9599915,1,Southeast Asia,Home Office,Cardio Equipment,89.44999695,Standard Class,Pacific Asia
+11517,2453,2/5/2015 19:02,100.0,91.0,0,Central America,Consumer,Women's Apparel,42.77000046,Standard Class,LATAM
+6704,21637,11/12/2015 20:03,399.9599915,351.9599915,0,Eastern Asia,Consumer,Cardio Equipment,154.8600006,Standard Class,Pacific Asia
+7631,8056,4/28/2015 14:01,499.9500122,499.9500122,0,Central America,Corporate,Cardio Equipment,181.4799957,Second Class,LATAM
+12111,3947,2/27/2015 14:27,74.97000122,69.72000122,1,Central America,Consumer,Accessories,32.0699997,Same Day,LATAM
+737,57531,4/19/2017 19:19,299.980011,263.980011,0,South America,Consumer,Camping & Hiking,105.5899963,Standard Class,LATAM
+15134,71581,11/10/2017 21:39,164.3800049,149.5899963,0,Western Europe,Consumer,DVDs,50.56000137,Standard Class,Europe
+9746,5872,3/27/2015 16:52,59.99000168,52.18999863,0,Central America,Consumer,Baseball & Softball,-88.73000336,Standard Class,LATAM
+4572,67351,9/10/2017 3:42,299.980011,296.980011,0,Northern Europe,Consumer,Camping & Hiking,-74.25,Standard Class,Europe
+2068,32291,4/16/2016 8:37,299.980011,278.980011,0,South of  USA ,Corporate,Camping & Hiking,72.54000092,Standard Class,USCA
+5285,58369,5/2/2017 0:54,399.980011,391.980011,1,Central America,Consumer,Fishing,184.2299957,Standard Class,LATAM
+1628,62789,7/5/2017 13:25,79.98999786,67.19000244,1,Western Europe,Consumer,Golf Gloves,15.44999981,Standard Class,Europe
+8420,10779,6/7/2015 8:00,119.9700012,113.3700027,1,Western Europe,Consumer,Girls' Apparel,40.81000137,Standard Class,Europe
+1078,56965,4/11/2017 13:01,199.9199982,188.9199982,1,Central America,Consumer,Indoor/Outdoor Games,23.62000084,Standard Class,LATAM
+11290,44006,10/4/2016 8:54,299.980011,283.480011,0,Southern Africa,Consumer,Camping & Hiking,121.9000015,Second Class,Africa
+3511,18750,10/1/2015 16:36,59.99000168,47.99000168,1,Western Europe,Corporate,Cleats,19.20000076,Second Class,Europe
+9655,62757,7/5/2017 2:13,199.9900055,199.9900055,1,Western Europe,Corporate,Water Sports,67.59999847,Second Class,Europe
+5451,5944,3/28/2015 18:05,399.980011,383.980011,1,Central America,Home Office,Fishing,-19.20000076,Same Day,LATAM
+2549,38671,7/18/2016 11:49,129.9900055,124.7900009,0,West of USA ,Consumer,Men's Footwear,1.25,Standard Class,USCA
+3830,53288,2/16/2017 20:48,39.99000168,31.98999977,0,Caribbean,Corporate,Golf Gloves,15.68000031,Standard Class,LATAM
+8225,67596,9/13/2017 17:32,299.980011,287.980011,0,Northern Europe,Home Office,Camping & Hiking,138.2299957,Standard Class,Europe
+7,62132,6/25/2017 23:15,399.980011,377.980011,0,Western Europe,Corporate,Fishing,132.2899933,Standard Class,Europe
+3395,44423,10/10/2016 11:00,44.97000122,37.33000183,0,North Africa,Consumer,Golf Balls,-1.600000024,Standard Class,Africa
+10644,18293,9/25/2015 0:30,199.9900055,169.9900055,1,Western Europe,Home Office,Water Sports,55.25,First Class,Europe
+3199,27346,2/4/2016 4:10,299.980011,263.980011,0,Eastern Asia,Corporate,Camping & Hiking,85.79000092,Standard Class,Pacific Asia
+2726,31198,3/31/2016 9:41,199.9900055,163.9900055,1,Oceania,Consumer,Water Sports,-131.1900024,First Class,Pacific Asia
+3910,58889,5/9/2017 15:05,49.97999954,45.47999954,1,Central America,Consumer,Indoor/Outdoor Games,-1.320000052,First Class,LATAM
+5707,41052,8/22/2016 5:59,299.980011,283.480011,1,South of  USA ,Consumer,Camping & Hiking,141.7400055,Second Class,USCA
+5032,51621,1/23/2017 12:47,39.99000168,38.79000092,0,Central America,Corporate,Shop By Sport,6.789999962,Standard Class,LATAM
+7435,19636,10/14/2015 15:00,100.0,85.0,0,Western Europe,Consumer,Women's Apparel,30.86000061,Second Class,Europe
+3402,39120,7/25/2016 1:07,59.99000168,54.59000015,1,East of USA,Consumer,Cleats,-40.02000046,Second Class,USCA
+3675,13429,7/16/2015 0:25,299.9700012,296.9700012,1,Northern Europe,Consumer,Cardio Equipment,18.70999908,Standard Class,Europe
+4212,43939,10/3/2016 9:26,199.9900055,167.9900055,1,Eastern Europe,Consumer,Water Sports,-39.97999954,Standard Class,Europe
+11282,14168,7/26/2015 19:19,100.0,88.0,0,Western Europe,Consumer,Women's Apparel,20.94000053,Standard Class,Europe
+4464,64958,8/6/2017 5:19,59.99000168,56.99000168,0,Western Europe,Corporate,Cleats,26.21999931,Standard Class,Europe
+6359,29014,2/28/2016 12:32,249.8999939,219.9100037,1,South Asia,Home Office,Indoor/Outdoor Games,63.77000046,Second Class,Pacific Asia
+1022,9337,5/17/2015 6:49,399.980011,377.980011,1,Central America,Consumer,Fishing,47.25,Second Class,LATAM
+3390,16399,8/28/2015 8:56,129.9900055,97.48999786,1,Western Europe,Corporate,Men's Footwear,32.95000076,Standard Class,Europe
+7476,26634,1/24/2016 18:43,119.9800034,105.5800018,1,South Asia,Corporate,Cleats,48.5699997,First Class,Pacific Asia
+5016,13539,7/17/2015 14:57,99.95999908,97.95999908,1,Western Europe,Corporate,Indoor/Outdoor Games,47.02000046,Standard Class,Europe
+3850,42643,9/14/2016 11:23,79.98000336,75.98000336,0,West Africa,Corporate,Shop By Sport,11.39999962,Standard Class,Africa
+3729,14951,8/7/2015 5:39,239.9600067,237.5599976,0,Western Europe,Corporate,Cleats,109.2799988,Standard Class,Europe
+11422,28910,2/27/2016 0:06,299.980011,296.980011,1,South Asia,Home Office,Camping & Hiking,22.27000046,Second Class,Pacific Asia
+8532,42536,9/12/2016 21:54,150.0,147.0,0,South Asia,Consumer,Women's Apparel,41.15999985,Standard Class,Pacific Asia
+6987,50408,1/5/2017 19:49,149.9400024,122.9499969,0,West Asia,Corporate,Indoor/Outdoor Games,9.220000267,Standard Class,Pacific Asia
+8758,28172,2/16/2016 5:33,299.9700012,269.9700012,0,Eastern Asia,Consumer,Cardio Equipment,33.75,Standard Class,Pacific Asia
+4287,22619,11/27/2015 4:05,199.9499969,149.9600067,1,Eastern Asia,Home Office,Shop By Sport,8.850000381,Standard Class,Pacific Asia
+1573,17904,9/19/2015 8:13,199.9900055,197.9900055,1,Southern Europe,Consumer,Water Sports,12.47000027,Second Class,Europe
+5229,44840,10/16/2016 13:05,99.98999786,90.98999786,1,West Asia,Corporate,Cardio Equipment,25.02000046,Standard Class,Pacific Asia
+4486,16776,9/2/2015 21:01,149.9400024,125.9499969,0,Northern Europe,Corporate,Indoor/Outdoor Games,57.93999863,Standard Class,Europe
+7945,62135,6/26/2017 0:18,119.9700012,117.5699997,1,Southern Europe,Consumer,Shop By Sport,29.38999939,Standard Class,Europe
+11403,31865,4/10/2016 3:22,129.9900055,128.6900024,1,West of USA ,Consumer,Men's Footwear,-199.4700012,Standard Class,USCA
+6660,19330,10/10/2015 3:48,299.980011,239.9799957,1,Western Europe,Home Office,Camping & Hiking,87.11000061,Standard Class,Europe
+6330,38780,7/20/2016 2:00,150.0,124.5,1,East of USA,Consumer,Women's Apparel,58.52000046,Second Class,USCA
+2688,39011,7/23/2016 10:56,299.980011,290.980011,0,West of USA ,Consumer,Camping & Hiking,78.55999756,Standard Class,USCA
+1757,48969,12/15/2016 19:40,149.9400024,149.9400024,1,West Asia,Consumer,Indoor/Outdoor Games,38.97999954,Same Day,Pacific Asia
+3391,12456,7/1/2015 19:32,239.9600067,191.9700012,1,Southern Europe,Corporate,Cleats,53.75,First Class,Europe
+5452,5643,3/24/2015 8:38,74.97000122,69.72000122,1,Central America,Home Office,Accessories,34.86000061,Second Class,LATAM
+2481,29506,3/6/2016 16:54,299.980011,224.9900055,0,Southeast Asia,Home Office,Camping & Hiking,105.7399979,Second Class,Pacific Asia
+19331,75778,1/11/2018 4:03,327.75,314.6400146,1,Eastern Asia,Home Office,Sporting Goods,138.4400024,Second Class,Pacific Asia
+4764,7453,4/19/2015 18:46,127.9599991,106.2099991,0,Central America,Corporate,Electronics,47.79000092,Standard Class,LATAM
+217,27014,1/30/2016 7:51,299.980011,284.980011,1,South Asia,Corporate,Camping & Hiking,25.07999992,Standard Class,Pacific Asia
+8742,40383,8/12/2016 11:36,50.0,41.5,0,US Center ,Consumer,Women's Apparel,3.609999895,Standard Class,USCA
+8775,59820,5/23/2017 5:15,39.99000168,33.59000015,1,Caribbean,Consumer,Shop By Sport,-13.43999958,Standard Class,LATAM
+4323,25504,1/8/2016 6:50,31.98999977,26.87000084,1,South Asia,Consumer,Electronics,12.89999962,Standard Class,Pacific Asia
+11736,57067,4/13/2017 0:45,79.98000336,77.58000183,0,Central America,Corporate,Shop By Sport,20.17000008,Standard Class,LATAM
+6496,68485,9/26/2017 16:59,299.980011,254.9799957,1,Western Europe,Home Office,Camping & Hiking,91.79000092,Standard Class,Europe
+1812,32030,4/12/2016 13:11,49.97999954,49.97999954,1,West of USA ,Home Office,Indoor/Outdoor Games,-34.99000168,Standard Class,USCA
+6708,40064,8/7/2016 19:51,199.9199982,149.9400024,1,US Center ,Corporate,Indoor/Outdoor Games,73.47000122,Standard Class,USCA
+10031,52666,2/7/2017 18:53,249.8999939,236.1600037,0,Central America,Consumer,Indoor/Outdoor Games,77.93000031,Standard Class,LATAM
+3432,46126,11/4/2016 7:38,299.980011,269.980011,0,Southern Africa,Corporate,Camping & Hiking,72.90000153,Standard Class,Africa
+9032,34211,5/14/2016 9:17,299.980011,284.980011,0,US Center ,Consumer,Camping & Hiking,99.73999786,Second Class,USCA
+5009,47345,11/22/2016 2:42,499.9500122,449.9599915,1,South Asia,Home Office,Cardio Equipment,211.4799957,Standard Class,Pacific Asia
+10307,68249,9/23/2017 6:18,149.9400024,142.4400024,1,Southern Europe,Consumer,Indoor/Outdoor Games,65.51999664,Standard Class,Europe
+283,26957,1/29/2016 11:53,250.0,210.0,1,Southeast Asia,Consumer,Women's Apparel,73.5,Second Class,Pacific Asia
+8774,35212,5/28/2016 23:58,49.97999954,49.47999954,0,West of USA ,Consumer,Indoor/Outdoor Games,4.949999809,Standard Class,USCA
+8024,63651,7/18/2017 3:25,299.9500122,296.9500122,0,Northern Europe,Consumer,Cleats,142.5399933,Same Day,Europe
+5015,63254,7/12/2017 8:20,239.9600067,235.1600037,1,Western Europe,Corporate,Cleats,110.5299988,Standard Class,Europe
+2385,42765,9/16/2016 6:08,44.99000168,42.74000168,1,Southern Europe,Corporate,Tennis & Racquet,8.550000191,First Class,Europe
+7392,20274,10/23/2015 22:32,199.9799957,149.9900055,1,Western Europe,Home Office,Cardio Equipment,39.0,Standard Class,Europe
+5075,49400,12/22/2016 2:40,199.9199982,149.9400024,1,Eastern Europe,Consumer,Indoor/Outdoor Games,-29.98999977,Standard Class,Europe
+9128,65933,8/20/2017 10:54,199.9499969,179.9600067,1,Western Europe,Corporate,Shop By Sport,10.80000019,First Class,Europe
+12365,68372,9/25/2017 1:24,299.980011,283.480011,0,Western Europe,Home Office,Camping & Hiking,-118.2099991,Standard Class,Europe
+4907,7482,4/20/2015 4:55,149.9400024,122.9499969,1,Central America,Consumer,Indoor/Outdoor Games,34.43000031,Second Class,LATAM
+956,57415,4/18/2017 2:40,199.9900055,175.9900055,1,Central America,Corporate,Water Sports,63.88000107,First Class,LATAM
+11460,34354,5/16/2016 11:23,399.980011,363.980011,0,West of USA ,Corporate,Fishing,105.5500031,First Class,USCA
+369,59784,5/22/2017 16:38,129.9900055,116.9899979,1,Caribbean,Corporate,Men's Footwear,57.33000183,Second Class,LATAM
+7287,63433,7/14/2017 23:03,299.9500122,245.9600067,0,Southern Europe,Home Office,Cleats,30.73999977,Standard Class,Europe
+11232,64169,7/25/2017 16:54,100.0,84.0,1,Western Europe,Consumer,Women's Apparel,28.38999939,Standard Class,Europe
+11713,45276,10/22/2016 21:50,149.9400024,134.9499969,0,Eastern Europe,Consumer,Indoor/Outdoor Games,35.09000015,Second Class,Europe
+11075,22859,11/30/2015 16:10,250.0,247.5,1,Oceania,Consumer,Women's Apparel,4.949999809,Same Day,Pacific Asia
+11890,2260,2/2/2015 23:25,49.97999954,48.47999954,1,Central America,Consumer,Indoor/Outdoor Games,-1.409999967,First Class,LATAM
+19458,75905,1/13/2018 0:33,327.75,317.9200134,1,Southeast Asia,Corporate,Sporting Goods,152.6000061,First Class,Pacific Asia
+3212,27468,2/5/2016 22:54,49.97999954,49.47999954,1,Southeast Asia,Corporate,Indoor/Outdoor Games,6.190000057,Second Class,Pacific Asia
+12192,46850,11/14/2016 21:17,399.980011,359.980011,1,West Asia,Consumer,Fishing,31.68000031,Second Class,Pacific Asia
+1900,61125,6/11/2017 6:27,129.9900055,129.9900055,1,South America,Consumer,Men's Footwear,8.18999958,Standard Class,LATAM
+2227,27505,2/6/2016 11:52,79.95999908,76.76000214,1,Southeast Asia,Home Office,Golf Balls,36.08000183,Standard Class,Pacific Asia
+6857,1394,1/21/2015 8:01,199.9499969,173.9600067,1,Caribbean,Corporate,Shop By Sport,19.65999985,Second Class,LATAM
+7062,60473,6/1/2017 18:02,200.0,190.0,0,Central America,Consumer,Women's Apparel,49.40000153,Standard Class,LATAM
+11133,35931,6/8/2016 11:52,200.0,186.0,1,West of USA ,Corporate,Women's Apparel,87.41999817,First Class,USCA
+2389,14272,7/28/2015 7:46,399.980011,371.980011,0,Western Europe,Consumer,Fishing,135.0299988,Standard Class,Europe
+2475,67751,9/15/2017 23:50,299.980011,290.980011,0,Southern Europe,Consumer,Camping & Hiking,-36.36999893,Second Class,Europe
+10665,17669,9/15/2015 21:53,199.9900055,191.9900055,1,Western Europe,Consumer,Water Sports,-489.5799866,Standard Class,Europe
+4316,41073,8/22/2016 13:21,50.0,46.5,0,US Center ,Corporate,Women's Apparel,-3.119999886,Standard Class,USCA
+11214,3553,2/21/2015 20:25,299.980011,272.980011,0,South America,Consumer,Camping & Hiking,128.3000031,Standard Class,LATAM
+3813,28500,2/21/2016 0:28,150.0,139.5,1,Eastern Asia,Consumer,Women's Apparel,45.34000015,First Class,Pacific Asia
+5609,4252,3/4/2015 1:18,199.9199982,181.9299927,0,Central America,Consumer,Indoor/Outdoor Games,59.13000107,Standard Class,LATAM
+1850,22701,11/28/2015 8:49,199.9900055,197.9900055,0,Southeast Asia,Corporate,Water Sports,5.940000057,Standard Class,Pacific Asia
+963,41005,8/21/2016 13:31,299.9700012,263.9700012,1,West of USA ,Corporate,Cardio Equipment,-72.58999634,Standard Class,USCA
+1525,44372,10/9/2016 17:08,124.9499969,112.4599991,1,Northern Europe,Corporate,Accessories,51.72999954,Same Day,Europe
+18080,74527,12/23/2017 21:46,1500.0,1455.0,0,Southeast Asia,Consumer,Computers,407.3999939,Standard Class,Pacific Asia
+8411,23720,12/13/2015 5:49,250.0,207.5,1,Eastern Asia,Corporate,Women's Apparel,91.30000305,Standard Class,Pacific Asia
+11136,61811,6/21/2017 6:47,59.99000168,50.99000168,0,Western Europe,Consumer,Cleats,17.23999977,Standard Class,Europe
+4517,56283,4/1/2017 14:05,200.0,189.0,0,South America,Corporate,Women's Apparel,85.05000305,Standard Class,LATAM
+8698,27293,2/3/2016 9:36,299.980011,272.980011,1,South Asia,Consumer,Camping & Hiking,76.43000031,First Class,Pacific Asia
+4038,38358,7/13/2016 22:09,119.9800034,104.3799973,0,West of USA ,Consumer,Baseball & Softball,32.66999817,Standard Class,USCA
+9778,55793,3/25/2017 10:25,59.99000168,54.59000015,0,South America,Home Office,Cleats,-12.72000027,Standard Class,LATAM
+9876,14900,8/6/2015 11:47,399.9599915,363.9599915,1,Western Europe,Home Office,Cardio Equipment,3.640000105,First Class,Europe
+3498,64645,8/1/2017 15:40,499.9500122,439.9599915,1,Northern Europe,Consumer,Cardio Equipment,27.71999931,Standard Class,Europe
+4601,14157,7/26/2015 15:28,59.99000168,59.99000168,1,Western Europe,Corporate,Cleats,3.779999971,Same Day,Europe
+8605,20743,10/30/2015 18:50,149.9400024,146.9400024,1,Eastern Asia,Home Office,Indoor/Outdoor Games,49.95999908,First Class,Pacific Asia
+400,4621,3/9/2015 10:35,199.9900055,191.9900055,1,South America,Corporate,Water Sports,21.69000053,First Class,LATAM
+6977,15640,8/17/2015 7:02,399.980011,379.980011,0,Western Europe,Consumer,Fishing,99.94000244,Second Class,Europe
+2917,51742,1/25/2017 7:10,200.0,176.0,0,Central America,Consumer,Women's Apparel,-12.5,Second Class,LATAM
+8625,51301,1/18/2017 20:40,299.980011,251.9799957,0,South America,Consumer,Camping & Hiking,-113.3899994,Second Class,LATAM
+9179,53999,2/27/2017 5:54,150.0,135.0,1,Central America,Consumer,Women's Apparel,37.79999924,Standard Class,LATAM
+2641,6304,4/3/2015 0:13,150.0,127.5,1,Caribbean,Consumer,Women's Apparel,44.63000107,Standard Class,LATAM
+8307,34746,5/22/2016 4:43,399.980011,383.980011,0,West of USA ,Consumer,Fishing,38.40000153,Standard Class,USCA
+9548,19869,10/18/2015 0:38,249.8999939,232.4100037,1,Western Europe,Corporate,Indoor/Outdoor Games,60.43000031,Standard Class,Europe
+7401,41549,8/29/2016 12:06,109.9400024,91.25,1,West Asia,Corporate,Boxing & MMA,34.22000122,First Class,Pacific Asia
+2444,1044,1/16/2015 5:24,249.8999939,217.4100037,1,South America,Consumer,Indoor/Outdoor Games,93.48999786,Second Class,LATAM
+7464,66598,8/30/2017 3:53,399.980011,387.980011,1,Western Europe,Consumer,Fishing,25.98999977,First Class,Europe
+7777,7205,4/16/2015 3:52,199.9900055,163.9900055,1,Central America,Consumer,Water Sports,61.5,Standard Class,LATAM
+4768,58875,5/9/2017 10:11,50.0,50.0,1,Central America,Home Office,Women's Apparel,23.5,Second Class,LATAM
+2274,18802,10/2/2015 10:49,199.9900055,185.9900055,1,Western Europe,Consumer,Water Sports,-37.20000076,Second Class,Europe
+6313,2719,2/9/2015 16:14,299.980011,299.980011,1,South America,Consumer,Camping & Hiking,108.8899994,Same Day,LATAM
+9253,12158,6/27/2015 11:08,159.9600067,155.1600037,0,Western Europe,Consumer,Shop By Sport,76.02999878,Standard Class,Europe
+2942,54701,3/9/2017 11:50,199.9900055,163.9900055,0,South America,Consumer,Water Sports,78.72000122,Standard Class,LATAM
+1465,18370,9/26/2015 3:28,129.9900055,128.6900024,1,Western Europe,Consumer,Men's Footwear,45.04000092,Standard Class,Europe
+3339,3594,2/22/2015 10:47,299.980011,224.9900055,1,Central America,Consumer,Camping & Hiking,56.25,Standard Class,LATAM
+10113,36144,6/11/2016 14:30,129.9900055,113.0899963,1,West of USA ,Consumer,Men's Footwear,38.22000122,Standard Class,USCA
+10706,68145,9/21/2017 17:52,299.9899902,263.9899902,1,Western Europe,Consumer,Golf Gloves,-85.80000305,Standard Class,Europe
+10747,21303,11/7/2015 23:02,129.9900055,109.1900024,0,Eastern Asia,Home Office,Men's Footwear,-180.1699982,Standard Class,Pacific Asia
+4177,58068,4/27/2017 15:27,119.9800034,107.9800034,0,Central America,Corporate,Cleats,46.43000031,Standard Class,LATAM
+8024,52373,2/3/2017 12:14,150.0,135.0,1,Central America,Consumer,Women's Apparel,63.45000076,First Class,LATAM
+6373,42776,9/16/2016 9:59,299.980011,263.980011,0,West Asia,Corporate,Camping & Hiking,-176.0800018,Standard Class,Pacific Asia
+3377,15116,8/9/2015 15:27,125.0,112.5,1,Western Europe,Consumer,Hockey,0.0,First Class,Europe
+5291,54110,2/28/2017 20:47,199.9900055,188.9900055,1,Central America,Consumer,Water Sports,63.88000107,Standard Class,LATAM
+4962,15393,8/13/2015 16:30,129.9900055,122.8399963,0,Northern Europe,Home Office,Men's Footwear,10.81000042,Standard Class,Europe
+2242,58878,5/9/2017 11:14,129.9900055,126.0899963,1,South America,Consumer,Men's Footwear,47.27999878,First Class,LATAM
+9690,27925,2/12/2016 15:01,150.0,145.5,1,Oceania,Corporate,Women's Apparel,65.48000336,Standard Class,Pacific Asia
+17124,73571,12/9/2017 22:50,39.75,33.38999939,0,Oceania,Consumer,Video Games,11.28999996,Standard Class,Pacific Asia
+1744,16029,8/22/2015 23:19,49.97999954,47.97999954,1,Western Europe,Corporate,Indoor/Outdoor Games,-36.79999924,Standard Class,Europe
+9470,59954,5/25/2017 4:12,100.0,95.0,0,Caribbean,Consumer,Women's Apparel,27.54999924,Same Day,LATAM
+3797,28299,2/18/2016 2:02,239.9600067,230.3600006,1,Eastern Asia,Consumer,Cleats,74.87000275,Standard Class,Pacific Asia
+10308,62795,7/5/2017 15:32,199.9499969,185.9499969,1,Western Europe,Consumer,Shop By Sport,35.33000183,Second Class,Europe
+7110,68388,9/25/2017 7:00,299.980011,296.980011,1,Southern Europe,Consumer,Camping & Hiking,107.8000031,First Class,Europe
+5749,34609,5/20/2016 4:43,299.9700012,287.9700012,1,West of USA ,Consumer,Cardio Equipment,5.760000229,First Class,USCA
+1860,29751,3/10/2016 6:45,299.980011,284.980011,0,South Asia,Consumer,Camping & Hiking,99.73999786,Standard Class,Pacific Asia
+3981,37881,7/6/2016 23:03,99.95999908,95.95999908,0,South of  USA ,Home Office,Indoor/Outdoor Games,26.87000084,Standard Class,USCA
+4705,58162,4/29/2017 0:23,39.99000168,38.38999939,1,Central America,Consumer,Shop By Sport,16.88999939,First Class,LATAM
+4597,12710,7/5/2015 12:31,99.95999908,82.97000122,1,Northern Europe,Consumer,Indoor/Outdoor Games,23.22999954,Standard Class,Europe
+7113,15499,8/15/2015 5:38,239.9600067,196.7700043,1,Western Europe,Corporate,Cleats,92.48000336,First Class,Europe
+7575,62672,7/3/2017 20:26,399.980011,379.980011,1,Western Europe,Home Office,Fishing,129.1900024,Same Day,Europe
+9634,52353,2/3/2017 5:14,199.9199982,159.9400024,0,South America,Corporate,Indoor/Outdoor Games,4.0,Standard Class,LATAM
+10975,60057,5/26/2017 16:17,99.0,99.0,1,South America,Consumer,Hunting & Shooting,27.71999931,Second Class,LATAM
+884,58036,4/27/2017 4:14,199.9900055,193.9900055,0,South America,Consumer,Water Sports,-9.699999809,Standard Class,LATAM
+11278,49189,12/19/2016 0:44,150.0,130.5,1,Central Africa,Consumer,Women's Apparel,13.05000019,Standard Class,Africa
+10390,67882,9/17/2017 21:44,79.98000336,63.97999954,0,Western Europe,Consumer,Shop By Sport,30.0699997,Standard Class,Europe
+10681,36985,6/23/2016 21:08,59.99000168,58.18999863,1,South of  USA ,Consumer,Cleats,19.20000076,Second Class,USCA
+4569,47950,11/30/2016 22:40,79.98000336,71.98000336,1,West Asia,Consumer,Shop By Sport,25.19000053,Second Class,Pacific Asia
+946,19499,10/12/2015 15:01,299.980011,293.980011,1,Western Europe,Corporate,Camping & Hiking,-79.66999817,Standard Class,Europe
+98,37761,7/5/2016 5:00,39.99000168,37.79000092,1,South of  USA ,Consumer,Shop By Sport,-7.559999943,First Class,USCA
+2124,46154,11/4/2016 17:27,159.9499969,131.1600037,1,Eastern Europe,Home Office,Electronics,62.95999908,Same Day,Europe
+5618,66115,8/23/2017 2:40,199.9900055,169.9900055,1,Western Europe,Corporate,Water Sports,61.70999908,Standard Class,Europe
+9670,15363,8/13/2015 5:59,129.9900055,129.9900055,0,Western Europe,Home Office,Men's Footwear,13.0,Standard Class,Europe
+13348,69795,10/15/2017 19:56,452.0400085,339.0299988,1,Western Europe,Corporate,Cameras ,118.6600037,Standard Class,Europe
+13894,70341,10/23/2017 19:14,357.1000061,346.3900146,0,Southern Europe,Home Office,Children's Clothing,86.59999847,Second Class,Europe
+6881,60232,5/29/2017 5:36,129.9900055,123.4899979,1,Central America,Consumer,Men's Footwear,3.700000048,First Class,LATAM
+4619,7385,4/18/2015 18:56,99.98999786,94.98999786,1,Caribbean,Consumer,Cardio Equipment,10.72999954,Standard Class,LATAM
+1468,20332,10/24/2015 18:51,49.97999954,43.47999954,1,Oceania,Consumer,Lacrosse,15.22000027,Second Class,Pacific Asia
+10194,38277,7/12/2016 17:47,399.980011,371.980011,1,East of USA,Consumer,Fishing,37.20000076,Second Class,USCA
+9238,16168,8/25/2015 0:01,100.0,91.0,0,Western Europe,Corporate,Women's Apparel,33.02999878,Standard Class,Europe
+3336,37758,7/5/2016 3:57,299.980011,283.480011,1,East of USA,Consumer,Camping & Hiking,133.2400055,Second Class,USCA
+6109,51728,1/25/2017 2:16,49.97999954,41.97999954,0,South America,Consumer,Indoor/Outdoor Games,4.739999771,Same Day,LATAM
+1222,165,1/3/2015 9:27,129.9900055,129.9900055,1,Central America,Consumer,Men's Footwear,61.09999847,Standard Class,LATAM
+11104,15031,8/8/2015 9:40,149.9400024,145.4400024,0,Western Europe,Consumer,Indoor/Outdoor Games,18.90999985,Standard Class,Europe
+8755,16886,9/4/2015 11:34,299.9500122,224.9600067,0,Western Europe,Consumer,Cleats,84.36000061,Standard Class,Europe
+10620,20757,10/30/2015 23:45,75.0,73.5,0,Eastern Asia,Corporate,Hockey,8.31000042,Standard Class,Pacific Asia
+6521,18026,9/21/2015 2:57,129.9900055,110.4899979,1,Northern Europe,Consumer,Men's Footwear,8.289999962,First Class,Europe
+2091,50034,12/31/2016 8:47,399.9599915,327.9700012,1,East Africa,Consumer,Cardio Equipment,141.0299988,First Class,Africa
+1948,16966,9/5/2015 15:35,399.980011,363.980011,0,Western Europe,Consumer,Fishing,-266.7999878,Second Class,Europe
+10777,5540,3/22/2015 20:33,125.0,102.5,1,Central America,Corporate,Girls' Apparel,32.08000183,Standard Class,LATAM
+10390,34140,5/13/2016 8:24,199.9900055,173.9900055,1,East of USA,Consumer,Water Sports,53.93999863,Second Class,USCA
+1014,50843,1/12/2017 4:13,109.9400024,87.94999695,0,West Africa,Consumer,Boxing & MMA,31.93000031,Standard Class,Africa
+10626,42968,9/19/2016 5:15,150.0,141.75,1,West Africa,Home Office,Women's Apparel,46.0699997,Second Class,Africa
+3689,31219,3/31/2016 17:03,399.980011,363.980011,1,Oceania,Corporate,Fishing,41.13000107,Standard Class,Pacific Asia
+6843,21352,11/8/2015 16:12,199.9900055,181.9900055,0,Southeast Asia,Consumer,Water Sports,47.3199997,Standard Class,Pacific Asia
+8529,27990,2/13/2016 13:47,119.9700012,113.3700027,1,Oceania,Consumer,Shop By Sport,34.00999832,Standard Class,Pacific Asia
+7076,27344,2/4/2016 3:28,299.980011,254.9799957,1,Southeast Asia,Home Office,Camping & Hiking,76.48999786,Standard Class,Pacific Asia
+2267,66583,8/29/2017 22:38,199.9900055,163.9900055,0,Western Europe,Consumer,Water Sports,-71.5,Standard Class,Europe
+5657,15876,8/20/2015 17:43,129.9900055,103.9899979,0,Southern Europe,Consumer,Men's Footwear,40.56000137,Second Class,Europe
+19191,75638,1/9/2018 3:00,84.40000153,79.76000214,1,Southeast Asia,Consumer,Pet Supplies,35.09000015,Second Class,Pacific Asia
+11129,21882,11/16/2015 9:53,199.9900055,189.9900055,1,Eastern Asia,Consumer,Water Sports,76.0,First Class,Pacific Asia
+10915,4713,3/10/2015 18:49,299.9500122,287.9500122,0,Central America,Consumer,Cleats,71.98999786,Standard Class,LATAM
+5118,973,1/15/2015 4:32,129.9900055,126.0899963,0,Caribbean,Consumer,Men's Footwear,42.61999893,Standard Class,LATAM
+11503,29776,3/10/2016 15:30,299.980011,299.980011,0,Southeast Asia,Corporate,Camping & Hiking,108.8899994,Standard Class,Pacific Asia
+11344,27249,2/2/2016 18:11,149.9400024,125.9499969,1,Southeast Asia,Consumer,Indoor/Outdoor Games,61.72000122,Standard Class,Pacific Asia
+7978,67060,9/5/2017 21:45,149.9400024,139.4400024,1,Southern Europe,Corporate,Indoor/Outdoor Games,-230.0800018,Standard Class,Europe
+18149,74596,12/24/2017 21:57,252.8800049,238.9700012,1,Oceania,Consumer,Consumer Electronics,114.7099991,First Class,Pacific Asia
+10552,55874,3/26/2017 14:48,299.980011,254.9799957,1,Central America,Consumer,Camping & Hiking,25.5,Standard Class,LATAM
+5849,9924,5/25/2015 20:28,150.0,141.75,1,Central America,Home Office,Women's Apparel,53.86999893,Same Day,LATAM
+2015,55215,3/16/2017 23:55,299.980011,269.980011,1,Caribbean,Consumer,Camping & Hiking,134.9900055,First Class,LATAM
+11646,28124,2/15/2016 12:44,44.99000168,43.63999939,1,Southeast Asia,Consumer,Electronics,3.269999981,Standard Class,Pacific Asia
+2773,9925,5/25/2015 20:49,49.97999954,44.97999954,0,Central America,Corporate,Indoor/Outdoor Games,14.39000034,First Class,LATAM
+6404,29639,3/8/2016 15:30,399.980011,335.980011,1,Oceania,Home Office,Fishing,40.3199997,Standard Class,Pacific Asia
+5245,53738,2/23/2017 10:27,199.9199982,193.9199982,0,Central America,Consumer,Indoor/Outdoor Games,14.53999996,Standard Class,LATAM
+10775,45999,11/2/2016 11:08,129.9900055,107.8899994,0,West Asia,Consumer,Men's Footwear,-13.48999977,First Class,Pacific Asia
+8683,96,1/2/2015 9:16,299.980011,251.9799957,0,South America,Corporate,Camping & Hiking,40.3199997,Second Class,LATAM
+2903,44545,10/12/2016 5:44,239.9600067,199.1699982,1,Southern Africa,Home Office,Cleats,24.89999962,Standard Class,Africa
+4246,32371,4/17/2016 12:39,24.98999977,18.73999977,0,West of USA ,Consumer,Lacrosse,-3.059999943,Standard Class,USCA
+10269,3595,2/22/2015 11:08,179.9700012,151.1699982,1,South America,Consumer,Baseball & Softball,61.97999954,Standard Class,LATAM
+10830,59212,5/14/2017 8:15,129.9900055,118.2900009,0,Central America,Consumer,Men's Footwear,31.94000053,Standard Class,LATAM
+3480,31566,4/5/2016 18:37,399.980011,395.980011,0,East of USA,Corporate,Fishing,186.1100006,Second Class,USCA
+6047,32666,4/21/2016 20:00,399.980011,377.980011,0,West of USA ,Consumer,Fishing,137.2100067,Standard Class,USCA
+5813,29242,3/2/2016 20:25,129.9900055,129.9900055,1,Southeast Asia,Home Office,Men's Footwear,36.40000153,First Class,Pacific Asia
+7763,59130,5/13/2017 3:31,129.9900055,127.3899994,1,South America,Consumer,Men's Footwear,44.59000015,Standard Class,LATAM
+7075,63729,7/19/2017 6:45,199.9900055,195.9900055,1,Western Europe,Home Office,Water Sports,-14.69999981,Standard Class,Europe
+6344,31714,4/7/2016 22:28,99.95999908,90.95999908,1,West of USA ,Corporate,Indoor/Outdoor Games,-61.86000061,Standard Class,USCA
+4412,52380,2/3/2017 14:41,39.99000168,37.18999863,1,South America,Corporate,Shop By Sport,13.39000034,Second Class,LATAM
+9554,60386,5/31/2017 11:33,199.9900055,179.9900055,0,South America,Consumer,Water Sports,34.20000076,Standard Class,LATAM
+2589,46135,11/4/2016 10:47,179.9700012,149.3800049,1,Eastern Europe,Consumer,Cleats,-224.0599976,Standard Class,Europe
+12066,8605,5/6/2015 14:21,140.0,105.0,1,Caribbean,Consumer,Girls' Apparel,34.65000153,First Class,LATAM
+11194,62731,7/4/2017 17:06,179.9700012,161.9700012,0,Northern Europe,Consumer,Cleats,-4.050000191,Second Class,Europe
+3096,12669,7/4/2015 22:09,129.9900055,118.2900009,1,Western Europe,Consumer,Men's Footwear,41.40000153,Standard Class,Europe
+8781,31499,4/4/2016 19:09,399.980011,395.980011,1,West of USA ,Home Office,Fishing,44.75,Second Class,USCA
+5386,7785,4/24/2015 15:04,129.9900055,124.7900009,1,Central America,Corporate,Men's Footwear,14.10000038,Second Class,LATAM
+6834,17160,9/8/2015 11:33,499.9500122,484.9500122,1,Northern Europe,Consumer,Cardio Equipment,232.7799988,Standard Class,Europe
+8812,23289,12/6/2015 22:49,399.9599915,351.9599915,1,South Asia,Consumer,Cardio Equipment,110.1600037,Standard Class,Pacific Asia
+2932,7632,4/22/2015 9:28,199.9799957,149.9900055,0,South America,Consumer,Cardio Equipment,50.68999863,Standard Class,LATAM
+2589,46135,11/4/2016 10:47,129.9900055,120.8899994,1,Eastern Europe,Consumer,Men's Footwear,47.15000153,Standard Class,Europe
+4875,35179,5/28/2016 12:25,250.0,250.0,1,West of USA ,Consumer,Women's Apparel,-31.25,First Class,USCA
+10269,44973,10/18/2016 11:41,49.97999954,45.47999954,0,Central Asia,Consumer,Indoor/Outdoor Games,-1.139999986,Standard Class,Pacific Asia
+5690,13112,7/11/2015 9:22,399.9599915,339.9700012,1,Western Europe,Corporate,Cardio Equipment,163.1799927,Second Class,Europe
+11230,32141,4/14/2016 4:04,59.99000168,49.18999863,0,West of USA ,Consumer,Cleats,12.78999996,Second Class,USCA
+10505,29306,3/3/2016 18:50,149.9400024,131.9499969,0,Oceania,Consumer,Indoor/Outdoor Games,46.18000031,Standard Class,Pacific Asia
+5511,49594,12/24/2016 22:38,199.9900055,179.9900055,1,West Asia,Corporate,Water Sports,22.5,First Class,Pacific Asia
+2345,1570,1/23/2015 21:41,199.9199982,159.9400024,1,Central America,Consumer,Indoor/Outdoor Games,54.06000137,Standard Class,LATAM
+2650,46163,11/4/2016 20:36,239.9600067,179.9700012,0,Central Africa,Corporate,Cleats,52.18999863,Standard Class,Africa
+2062,1663,1/25/2015 6:16,199.9900055,185.9900055,0,Caribbean,Consumer,Water Sports,89.27999878,Standard Class,LATAM
+20545,76992,1/28/2018 21:22,215.8200073,194.2400055,0,South Asia,Corporate,Women's Clothing,50.5,Standard Class,Pacific Asia
+11672,1306,1/20/2015 1:11,399.9599915,327.9700012,0,South America,Consumer,Cardio Equipment,98.38999939,Standard Class,LATAM
+5528,3182,2/16/2015 10:26,53.97000122,48.5699997,0,South America,Corporate,Golf Balls,0.970000029,Standard Class,LATAM
+5127,16480,8/29/2015 13:19,179.9700012,134.9799957,1,Western Europe,Consumer,Cleats,64.79000092,Standard Class,Europe
+5991,54245,3/2/2017 20:05,99.95999908,74.97000122,1,South America,Consumer,Indoor/Outdoor Games,23.23999977,Standard Class,LATAM
+15317,71764,11/13/2017 13:46,532.5800171,503.2900085,1,Southeast Asia,Corporate,Garden,182.6900024,Standard Class,Pacific Asia
+10002,43188,9/22/2016 10:19,159.9600067,156.7599945,1,West Africa,Corporate,Shop By Sport,50.95000076,First Class,Africa
+9992,59970,5/25/2017 9:48,59.99000168,49.79000092,1,Central America,Corporate,Cleats,9.960000038,First Class,LATAM
+8915,1396,1/21/2015 8:43,49.97999954,49.97999954,0,Caribbean,Corporate,Indoor/Outdoor Games,-36.63999939,Standard Class,LATAM
+234,55473,3/20/2017 18:18,99.95999908,94.95999908,1,Central America,Consumer,Indoor/Outdoor Games,45.58000183,First Class,LATAM
+1822,12508,7/2/2015 13:45,100.0,82.0,0,Southern Europe,Home Office,Women's Apparel,22.54999924,Standard Class,Europe
+3970,2987,2/13/2015 14:07,299.9500122,245.9600067,1,Central America,Consumer,Cleats,-3.440000057,First Class,LATAM
+971,35094,5/27/2016 6:38,199.9499969,169.9600067,1,South of  USA ,Consumer,Shop By Sport,74.77999878,Standard Class,USCA
+17096,73543,12/9/2017 13:02,39.75,37.75999832,0,Oceania,Consumer,Video Games,16.98999977,Standard Class,Pacific Asia
+3378,63637,7/17/2017 22:31,129.9900055,116.9899979,1,Western Europe,Consumer,Men's Footwear,54.99000168,Second Class,Europe
+4154,16305,8/27/2015 0:01,239.9600067,215.9600067,1,Western Europe,Consumer,Cleats,103.6600037,Second Class,Europe
+5490,13155,7/12/2015 0:25,129.9900055,110.4899979,1,Western Europe,Consumer,Men's Footwear,32.04000092,Standard Class,Europe
+7627,21982,11/17/2015 20:55,299.9500122,254.9600067,1,South Asia,Home Office,Cleats,92.55000305,First Class,Pacific Asia
+2063,21900,11/16/2015 16:11,399.980011,359.980011,1,Southeast Asia,Consumer,Fishing,161.9900055,Same Day,Pacific Asia
+1383,15289,8/12/2015 4:04,119.9700012,98.37999725,0,Northern Europe,Corporate,Shop By Sport,1.970000029,Same Day,Europe
+12073,33544,5/4/2016 15:36,299.980011,245.9799957,1,West of USA ,Consumer,Camping & Hiking,68.87999725,Standard Class,USCA
+11796,52647,2/7/2017 12:14,499.9500122,484.9500122,0,South America,Home Office,Cardio Equipment,145.4900055,Standard Class,LATAM
+3764,50482,1/6/2017 21:44,239.9600067,226.7599945,0,West Asia,Consumer,Cleats,56.68999863,Standard Class,Pacific Asia
+1873,38371,7/14/2016 2:43,199.9199982,197.9199982,0,US Center ,Consumer,Indoor/Outdoor Games,47.5,Second Class,USCA
+4233,29978,3/13/2016 14:16,54.97000122,46.16999817,1,Eastern Asia,Consumer,Boxing & MMA,5.539999962,First Class,Pacific Asia
+3691,35026,5/26/2016 6:49,199.9900055,165.9900055,0,East of USA,Consumer,Water Sports,58.09999847,Second Class,USCA
+2093,20275,10/23/2015 22:53,239.9600067,201.5700073,1,Northern Europe,Corporate,Cleats,-332.5799866,Second Class,Europe
+5116,55381,3/19/2017 10:04,199.9900055,193.9900055,0,Central America,Consumer,Water Sports,87.30000305,Standard Class,LATAM
+8440,66313,8/26/2017 0:02,99.98999786,87.98999786,1,Southern Europe,Consumer,Cardio Equipment,-41.79999924,Second Class,Europe
+4924,42328,9/9/2016 21:02,199.9900055,197.9900055,1,East Africa,Corporate,Water Sports,93.05999756,Second Class,Africa
+17103,73550,12/9/2017 15:29,39.75,31.79999924,1,Southeast Asia,Consumer,Video Games,-7.949999809,Second Class,Pacific Asia
+9707,5062,3/15/2015 21:05,299.980011,263.980011,0,Central America,Corporate,Camping & Hiking,22.96999931,Standard Class,LATAM
+5440,65507,8/14/2017 5:40,199.9900055,195.9900055,1,Western Europe,Consumer,Water Sports,96.04000092,Second Class,Europe
+4080,29295,3/3/2016 14:59,179.9700012,143.9799957,1,Eastern Asia,Consumer,Cleats,71.98999786,Second Class,Pacific Asia
+11581,42077,9/6/2016 5:05,199.9900055,165.9900055,0,Central Asia,Corporate,Water Sports,28.21999931,Standard Class,Pacific Asia
+8347,16583,8/31/2015 1:24,129.9900055,114.3899994,0,Western Europe,Corporate,Men's Footwear,51.47999954,Standard Class,Europe
+4725,12563,7/3/2015 9:01,129.9900055,128.6900024,0,Western Europe,Corporate,Men's Footwear,12.86999989,Same Day,Europe
+1465,6698,4/8/2015 18:15,199.9900055,199.9900055,0,South America,Consumer,Water Sports,-353.3800049,Standard Class,LATAM
+10575,50967,1/13/2017 23:39,129.9900055,97.48999786,1,Southern Africa,Consumer,Men's Footwear,46.79999924,Second Class,Africa
+11083,7221,4/16/2015 9:29,149.9400024,146.9400024,0,Caribbean,Corporate,Indoor/Outdoor Games,36.74000168,Standard Class,LATAM
+7941,8862,5/10/2015 8:24,99.95999908,79.97000122,1,Central America,Consumer,Indoor/Outdoor Games,17.59000015,Second Class,LATAM
+10851,3139,2/15/2015 19:22,199.9799957,181.9799957,1,Central America,Home Office,Cardio Equipment,0.0,Standard Class,LATAM
+19,16447,8/29/2015 1:45,100.0,80.0,0,Western Europe,Home Office,Women's Apparel,-34.63999939,Standard Class,Europe
+7657,9597,5/21/2015 1:54,299.980011,248.9799957,0,Central America,Corporate,Camping & Hiking,-28.13999939,Standard Class,LATAM
+9622,6539,4/6/2015 10:33,179.9700012,158.3699951,1,South America,Consumer,Cleats,76.01999664,First Class,LATAM
+1942,28772,2/24/2016 23:45,200.0,200.0,0,South Asia,Corporate,Women's Apparel,52.0,Standard Class,Pacific Asia
+4581,23511,12/10/2015 4:36,399.980011,387.980011,0,Oceania,Consumer,Fishing,-200.5899963,Standard Class,Pacific Asia
+4760,39048,7/23/2016 23:54,50.0,42.5,1,South of  USA ,Home Office,Women's Apparel,7.570000172,Same Day,USCA
+4611,64052,7/23/2017 23:55,199.9900055,169.9900055,1,Northern Europe,Consumer,Water Sports,42.5,Second Class,Europe
+5879,37709,7/4/2016 10:47,199.9900055,199.9900055,1,South of  USA ,Home Office,Water Sports,52.0,Standard Class,USCA
+11880,63616,7/17/2017 15:10,129.9900055,128.6900024,0,Southern Europe,Consumer,Men's Footwear,37.3199997,Standard Class,Europe
+11777,60454,6/1/2017 11:22,299.980011,287.980011,1,South America,Consumer,Camping & Hiking,86.38999939,Second Class,LATAM
+12028,14699,8/3/2015 13:21,239.9600067,237.5599976,1,Western Europe,Home Office,Cleats,83.15000153,First Class,Europe
+4959,24646,12/26/2015 18:14,399.980011,319.980011,0,Oceania,Home Office,Fishing,156.7899933,Standard Class,Pacific Asia
+6537,65727,8/17/2017 10:44,299.980011,224.9900055,0,Southern Europe,Corporate,Camping & Hiking,73.12000275,Same Day,Europe
+5884,51048,1/15/2017 4:02,95.98000336,91.18000031,0,Central Africa,Consumer,Electronics,-159.5700073,Standard Class,Africa
+9636,16843,9/3/2015 20:30,399.980011,395.980011,1,Western Europe,Corporate,Fishing,110.8700027,First Class,Europe
+8998,23162,12/5/2015 2:19,47.97000122,43.16999817,1,Southeast Asia,Corporate,Trade-In,-69.08000183,First Class,Pacific Asia
+3046,68671,9/29/2017 10:09,49.97999954,47.97999954,0,Western Europe,Consumer,Indoor/Outdoor Games,3.599999905,Second Class,Europe
+11091,5625,3/24/2015 2:20,119.9800034,95.98000336,1,Central America,Home Office,Cleats,5.659999847,Standard Class,LATAM
+10072,131,1/2/2015 21:32,399.980011,371.980011,0,Central America,Home Office,Fishing,135.0299988,Standard Class,LATAM
+1025,36883,6/22/2016 9:24,399.980011,399.980011,0,East of USA,Home Office,Fishing,179.9900055,Standard Class,USCA
+9210,18124,9/22/2015 13:17,399.980011,335.980011,1,Southern Europe,Corporate,Fishing,94.08000183,Standard Class,Europe
+694,21924,11/17/2015 0:36,399.980011,391.980011,1,South Asia,Consumer,Fishing,122.6900024,Standard Class,Pacific Asia
+19143,75590,1/8/2018 10:11,84.40000153,84.40000153,1,Oceania,Consumer,Pet Supplies,22.79000092,Second Class,Pacific Asia
+3952,60903,6/8/2017 0:41,299.980011,278.980011,1,Central America,Home Office,Camping & Hiking,122.75,Second Class,LATAM
+17968,74415,12/22/2017 6:32,357.1000061,310.6799927,0,Eastern Asia,Corporate,Children's Clothing,102.5199966,Second Class,Pacific Asia
+446,56032,3/28/2017 22:09,50.0,40.0,0,Central America,Corporate,Women's Apparel,-28.0,Standard Class,LATAM
+2881,3666,2/23/2015 12:00,299.980011,283.480011,1,Central America,Home Office,Camping & Hiking,-53.29000092,First Class,LATAM
+3999,10327,5/31/2015 17:39,399.9599915,351.9599915,0,Northern Europe,Corporate,Cardio Equipment,168.9400024,Standard Class,Europe
+6886,27984,2/13/2016 11:41,199.9900055,189.9900055,1,Oceania,Consumer,Water Sports,-42.75,Standard Class,Pacific Asia
+12206,5943,3/28/2015 17:44,299.980011,245.9799957,1,South America,Corporate,Camping & Hiking,113.1500015,Same Day,LATAM
+16888,73335,12/6/2017 12:10,11.53999996,10.72999954,1,South Asia,Consumer,Toys,-0.920000017,Standard Class,Pacific Asia
+3024,5916,3/28/2015 8:17,399.980011,347.980011,0,Central America,Corporate,Fishing,170.5099945,Standard Class,LATAM
+9726,34073,5/12/2016 8:56,199.9900055,181.9900055,0,West of USA ,Consumer,Water Sports,63.70000076,Standard Class,USCA
+4919,13675,7/19/2015 14:36,299.980011,245.9799957,1,Western Europe,Consumer,Camping & Hiking,81.16999817,Standard Class,Europe
+12045,29937,3/12/2016 23:54,59.99000168,44.99000168,1,Southeast Asia,Consumer,Cleats,11.82999992,First Class,Pacific Asia
+5359,36615,6/18/2016 11:30,159.9600067,140.7599945,1,South of  USA ,Consumer,Shop By Sport,-93.88999939,Standard Class,USCA
+9884,4660,3/10/2015 0:15,79.98000336,65.58000183,1,South America,Corporate,Shop By Sport,-9.050000191,Standard Class,LATAM
+5684,56212,3/31/2017 13:13,59.99000168,50.99000168,0,South America,Home Office,Cleats,-67.55999756,Standard Class,LATAM
+2866,12781,7/6/2015 13:24,19.98999977,18.88999939,1,Western Europe,Consumer,Golf Apparel,3.99000001,First Class,Europe
+20573,77020,1/29/2018 7:11,215.8200073,161.8699951,1,Southeast Asia,Consumer,Women's Clothing,21.53000069,Standard Class,Pacific Asia
+11652,32889,4/25/2016 2:07,24.98999977,20.98999977,1,West of USA ,Home Office,Golf Gloves,2.309999943,Standard Class,USCA
+2238,31259,4/1/2016 7:04,74.97000122,62.97000122,1,Oceania,Corporate,Lacrosse,6.300000191,Standard Class,Pacific Asia
+83,33817,5/8/2016 15:15,134.9700012,127.5500031,0,US Center ,Corporate,Tennis & Racquet,42.09000015,Standard Class,USCA
+11681,18842,10/3/2015 0:50,99.98999786,96.98999786,0,Western Europe,Consumer,Cardio Equipment,43.65000153,Standard Class,Europe
+149,17538,9/13/2015 23:59,129.9900055,106.5899963,1,Western Europe,Home Office,Men's Footwear,29.85000038,First Class,Europe
+250,67471,9/11/2017 21:44,199.9900055,169.9900055,0,Western Europe,Consumer,Water Sports,4.25,Standard Class,Europe
+9897,3326,2/18/2015 12:53,499.9500122,489.9500122,1,Caribbean,Consumer,Cardio Equipment,102.8899994,First Class,LATAM
+5588,53045,2/13/2017 7:40,399.980011,391.980011,1,Central America,Consumer,Fishing,129.3500061,Standard Class,LATAM
+10135,25154,1/3/2016 4:12,399.980011,391.980011,1,Eastern Asia,Consumer,Fishing,109.75,First Class,Pacific Asia
+5107,36732,6/20/2016 4:30,299.980011,260.980011,0,West of USA ,Consumer,Camping & Hiking,91.33999634,Standard Class,USCA
+4949,54493,3/6/2017 10:58,399.980011,363.980011,0,South America,Consumer,Fishing,27.29999924,Standard Class,LATAM
+8810,32595,4/20/2016 19:07,299.980011,283.480011,1,US Center ,Corporate,Camping & Hiking,138.9100037,Standard Class,USCA
+10106,34208,5/14/2016 8:14,199.9900055,189.9900055,1,East of USA,Consumer,Water Sports,-126.7200012,First Class,USCA
+11806,12109,6/26/2015 17:58,199.9199982,165.9299927,1,Northern Europe,Corporate,Indoor/Outdoor Games,53.93000031,Standard Class,Europe
+11339,24325,12/22/2015 1:46,399.980011,335.980011,1,Oceania,Home Office,Fishing,164.6300049,Second Class,Pacific Asia
+18059,74506,12/23/2017 14:25,1500.0,1417.5,0,Eastern Asia,Consumer,Computers,524.4799805,Standard Class,Pacific Asia
+553,37244,6/27/2016 15:52,129.9900055,129.9900055,1,US Center ,Consumer,Men's Footwear,45.5,Standard Class,USCA
+2655,28583,2/22/2016 5:32,159.9600067,139.1699982,0,Eastern Asia,Consumer,Shop By Sport,-34.79000092,Standard Class,Pacific Asia
+6290,45767,10/30/2016 1:52,499.9500122,399.9599915,0,West Africa,Corporate,Cardio Equipment,8.0,Standard Class,Africa
+11929,3521,2/21/2015 9:12,119.9800034,113.9800034,0,Caribbean,Consumer,Cleats,31.90999985,Standard Class,LATAM
+6236,1502,1/22/2015 21:52,299.980011,224.9900055,0,South America,Corporate,Camping & Hiking,94.48999786,Standard Class,LATAM
+10043,23428,12/8/2015 23:31,149.9400024,122.9499969,1,Oceania,Consumer,Indoor/Outdoor Games,9.220000267,Same Day,Pacific Asia
+1865,43516,9/27/2016 5:14,129.9900055,116.9899979,0,Southern Africa,Corporate,Men's Footwear,40.95000076,Standard Class,Africa
+4226,51520,1/22/2017 1:24,250.0,187.5,0,Central America,Corporate,Women's Apparel,-125.0599976,Standard Class,LATAM

@@ -2,53 +2,61 @@
 
 This project uses the DataCo Global Supply Chain dataset to explore customer purchasing behaviour and the relationship between delivery experience and repeat purchases.
 
-The main question I wanted to investigate was: **does a late delivery on a customer's first order affect whether they place another order?**
+The analysis is built around three questions:
 
-## What the analysis covers
+1. Which customers appear most valuable or at risk based on their purchasing history?
+2. How does customer activity change after the month of a customer's first purchase?
+3. Do customers whose first order is marked as late have a different repeat-purchase rate from customers whose first order is marked as on time?
 
-- **RFM segmentation:** groups customers using recency, frequency and monetary value, then assigns readable customer segments.
-- **Cohort retention:** tracks the share of each first-purchase cohort that places orders in later months.
-- **First-order delivery experience:** compares repeat-purchase rates for customers whose first order was flagged as late and those whose first order was not.
-- **Order-level context:** retains fields such as region, customer segment, product category, shipping mode and profit per order for further analysis.
+## Dataset
 
-The SQL uses CTEs, window functions such as `NTILE()`, `MIN() OVER` and `ROW_NUMBER()`, and aggregate calculations.
+The source is the DataCo Global Supply Chain dataset, originally published on Mendeley Data and also available through Kaggle. The full dataset contains 180,519 order records from January 2015 to January 2018.
 
-## Data
+The repository includes `sample_orders.csv`, a 500-row sample with the cleaned columns used in the analysis. The full source file is not included because of its size. The loading script expects the original DataCo CSV.
 
-The source is the DataCo Global Supply Chain dataset by Constante, Silva and Pereira (2019), available through Mendeley Data and mirrored on Kaggle.
+## Analysis
 
-The original dataset contains 180,519 orders from January 2015 to January 2018. The repository includes `sample_orders.csv`, a 500-row sample showing the cleaned columns used in the analysis. The full source CSV is not included because of its size.
+**Customer segmentation**
 
-## Running the analysis
+The SQL analysis calculates recency, frequency and monetary value (RFM) for each customer. It uses quartile scores to group customers into segments such as Champions, Loyal Customers, At Risk and Needs Attention.
 
-Install the required packages:
+**Cohort retention**
+
+Customers are grouped by the month of their first order. The query then counts how many customers from each cohort place orders in later calendar months.
+
+**First-order delivery experience**
+
+The final query identifies each customer's first recorded order and compares the repeat-purchase rate for customers whose first order was marked late versus those whose first order was marked on time.
+
+The SQL uses common table expressions, window functions such as `NTILE()`, `MIN() OVER` and `ROW_NUMBER()`, and conditional aggregation.
+
+## Files
+
+- `load_data.py` — selects the required columns from the source CSV, renames them and loads them into SQLite
+- `analysis.sql` — creates the RFM, cohort-retention and first-order-impact analysis tables
+- `sample_orders.csv` — small sample showing the cleaned table structure
+- `Customer_Loyalty_SQL_Analysis.xlsx` — supplementary analysis workbook
+- `customer-loyalty-sql-analysis.zip` — project archive
+
+## Run
+
+Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Download the full DataCo CSV and load it into a local SQLite database:
+Download the full DataCo Global Supply Chain CSV from its original dataset source, then run:
 
 ```bash
 python load_data.py path/to/DataCoSupplyChainDataset.csv
-```
-
-Run the SQL file against the database:
-
-```bash
 sqlite3 dataco.db < analysis.sql
 ```
 
-The SQL creates three analysis tables: `customer_rfm`, `cohort_retention` and `first_order_impact`.
+The loading script creates a SQLite database named `dataco.db` with an `orders` table. The SQL file creates three analysis tables: `customer_rfm`, `cohort_retention` and `first_order_impact`.
 
-The included `Customer_Loyalty_SQL_Analysis.xlsx` is provided as a supplementary analysis file.
+The included 500-row sample is for inspecting the cleaned columns; the analysis script is designed for the full source dataset.
 
-## Files
+## Interpreting the results
 
-- `load_data.py` — selects and renames the fields needed for analysis, then loads them into SQLite.
-- `analysis.sql` — RFM segmentation, cohort retention and first-order delivery analysis.
-- `sample_orders.csv` — small sample of the cleaned data structure.
-- `Customer_Loyalty_SQL_Analysis.xlsx` — supplementary workbook.
-- `customer-loyalty-sql-analysis.zip` — archived project files.
-
-The 500-row sample is for previewing the data structure; use the full source dataset to reproduce the complete analysis.
+The queries describe patterns in this historical dataset. They can show whether late delivery on a first order is associated with a different repeat-purchase rate, but they do not establish that late delivery caused a customer to leave. Other factors may also influence whether a customer places another order.

@@ -1,33 +1,54 @@
-# Dataset
+# Customer Loyalty and Supply Chain Analytics
 
-**Source:** DataCo Global Supply Chain Dataset
-**Original source:** Constante, F., Silva, F., Pereira, A. (2019). *DataCo Smart Supply Chain
-For Big Data Analysis*. Mendeley Data. Also mirrored on Kaggle as
-"DataCo Smart Supply Chain for Big Data Analysis."
+This project uses the DataCo Global Supply Chain dataset to explore customer purchasing behaviour and the relationship between delivery experience and repeat purchases.
 
-- 180,519 orders
-- 20,652 unique customers
-- Jan 2015 – Jan 2018
-- 53 raw fields (order, product, customer, and shipping details)
+The main question I wanted to investigate was: **does a late delivery on a customer's first order affect whether they place another order?**
 
-## Files in this folder
+## What the analysis covers
 
-- `sample_orders.csv` — a 500-row random sample of the cleaned columns used in this
-  analysis, included so the schema is visible without downloading the full dataset.
-- The full `DataCoSupplyChainDataset.csv` (~90 MB) is **not** committed to this repo due
-  to size. Download it from Kaggle/Mendeley and place it here before running `load_data.py`.
+- **RFM segmentation:** groups customers using recency, frequency and monetary value, then assigns readable customer segments.
+- **Cohort retention:** tracks the share of each first-purchase cohort that places orders in later months.
+- **First-order delivery experience:** compares repeat-purchase rates for customers whose first order was flagged as late and those whose first order was not.
+- **Order-level context:** retains fields such as region, customer segment, product category, shipping mode and profit per order for further analysis.
 
-## Columns used in this analysis
+The SQL uses CTEs, window functions such as `NTILE()`, `MIN() OVER` and `ROW_NUMBER()`, and aggregate calculations.
 
-| Column | Description |
-|---|---|
-| `customer_id` | Unique customer identifier |
-| `order_id` | Unique order identifier |
-| `order_date` | Date the order was placed |
-| `sales` / `order_total` | Order value |
-| `late_delivery_risk` | 1 if the order was delivered late, 0 if on time |
-| `order_region`, `market` | Geography |
-| `customer_segment` | Consumer / Corporate / Home Office |
-| `category_name` | Product category |
-| `profit_per_order` | Profit earned on the order |
-| `shipping_mode` | Standard / First / Second Class / Same Day |
+## Data
+
+The source is the DataCo Global Supply Chain dataset by Constante, Silva and Pereira (2019), available through Mendeley Data and mirrored on Kaggle.
+
+The original dataset contains 180,519 orders from January 2015 to January 2018. The repository includes `sample_orders.csv`, a 500-row sample showing the cleaned columns used in the analysis. The full source CSV is not included because of its size.
+
+## Running the analysis
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Download the full DataCo CSV and load it into a local SQLite database:
+
+```bash
+python load_data.py path/to/DataCoSupplyChainDataset.csv
+```
+
+Run the SQL file against the database:
+
+```bash
+sqlite3 dataco.db < analysis.sql
+```
+
+The SQL creates three analysis tables: `customer_rfm`, `cohort_retention` and `first_order_impact`.
+
+The included `Customer_Loyalty_SQL_Analysis.xlsx` is provided as a supplementary analysis file.
+
+## Files
+
+- `load_data.py` — selects and renames the fields needed for analysis, then loads them into SQLite.
+- `analysis.sql` — RFM segmentation, cohort retention and first-order delivery analysis.
+- `sample_orders.csv` — small sample of the cleaned data structure.
+- `Customer_Loyalty_SQL_Analysis.xlsx` — supplementary workbook.
+- `customer-loyalty-sql-analysis.zip` — archived project files.
+
+The 500-row sample is for previewing the data structure; use the full source dataset to reproduce the complete analysis.
